@@ -1,1 +1,1 @@
-# ContosoDentistryChatBotWebUdacity
+# Contoso Dentistry Static Website
